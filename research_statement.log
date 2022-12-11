@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=latex 2022.11.25)  11 DEC 2022 19:38
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=latex 2022.11.25)  11 DEC 2022 19:40
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -233,7 +233,7 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <5> on input line 14.
 
 Overfull \hbox (111.80637pt too wide) in paragraph at lines 34--46
-[]
+[] 
  []
 
 [1
@@ -251,4 +251,4 @@ Here is how much of TeX's memory you used:
  1141 hyphenation exceptions out of 8191
  65i,8n,67p,313b,322s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on research_statement.dvi (2 pages, 10884 bytes).
+Output written on research_statement.dvi (2 pages, 10876 bytes).
