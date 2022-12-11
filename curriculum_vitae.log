@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=latex 2022.11.25)  11 DEC 2022 18:24
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=latex 2022.11.25)  11 DEC 2022 18:45
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -360,12 +360,12 @@ Package rerunfilecheck Info: File `curriculum_vitae.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 10495 strings out of 478288
- 191482 string characters out of 5849314
+ 10496 strings out of 478288
+ 191498 string characters out of 5849314
  625174 words of memory out of 5000000
- 28618 multiletter control sequences out of 15000+600000
+ 28619 multiletter control sequences out of 15000+600000
  470481 words of font info for 32 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  108i,7n,106p,10632b,438s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on curriculum_vitae.dvi (2 pages, 5112 bytes).
+Output written on curriculum_vitae.dvi (2 pages, 5276 bytes).
